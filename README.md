@@ -1,3 +1,5 @@
+# YarnTails2.0
+A revamped version of YarnTails focusing on blogging and fluidity
 # Flask React Project
 
 This is the starter for the Flask React project.
