@@ -9,4 +9,8 @@ class Pattern(db.Model):
 
     id = db.Column(db.Integer, primary_key=True)
     pattern_title=db.Column(db.String(100), nullable=False)
+    title_image=db.Column(db.String, nullable=False)
+    difficulty=db.Column(db.String, nullable=False)
+    
+    
     
